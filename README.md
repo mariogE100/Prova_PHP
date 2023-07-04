@@ -26,3 +26,5 @@ criado na questão 1 usando PDO.
 
 QUESTÃO 4 • valor: 5,0 pontos
 Implemente processamento.php para salvar no banco de dados.
+
+Pedido de emprestimo/templates/index.html
